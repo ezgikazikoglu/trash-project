@@ -1,0 +1,15 @@
+{
+  "classes": [
+    "cardboard",
+    "glass",
+    "metal",
+    "paper",
+    "plastic",
+    "trash"
+  ],
+  "num_classes": 6,
+  "img_size": 224,
+  "model_name": "efficientnetv2_rw_s.ra2_in1k",
+  "best_val_acc": 0.9525065963060686,
+  "test_acc": 0.9447368421052632
+}
