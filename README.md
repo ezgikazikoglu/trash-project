@@ -4,7 +4,12 @@ Görsel tabanlı çevresel atık sınıflandırma uygulaması. Derin öğrenme m
 
 ## Demo
 
-![Uygulama Ekran Görüntüsü](docs/demo.png)
+<img width="1076" height="782" alt="image" src="https://github.com/user-attachments/assets/02824914-dd59-45ec-a503-a8ace92c1ec6" />
+
+<img width="1072" height="777" alt="image" src="https://github.com/user-attachments/assets/e0cf4f88-ea29-45eb-8774-265fd926cb0a" />
+
+
+
 
 ## Özellikler
 
